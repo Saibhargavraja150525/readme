@@ -35,7 +35,8 @@ B.Tech (CSE) - 78%	2026
 PROJECTS
 I AI Powered Conversational Assistant for Mental health and Emotional Reflection
 •	AuraAssist is an AI-powered conversational assistant developed to provide mental health and emotional support through personalized interactions. The system uses Streamlit, LangChain, and Groq API to deliver context-aware responses based on user conversations. It incorporates user profiling and severity assessment to offer appropriate coping strategies and wellness recommendations. The application also includes crisis detection mechanisms to identify high-risk situations and encourage professional assistance when needed. Additionally, text-to-speech functionality enhances accessibility and improves the overall user experience.
-.ATM Simulation Program: Developed in C language utilizing concepts like pointers and dynamic memory allocation.
+.  ATM Simulation Program: Developed in C language utilizing concepts like pointers and dynamic memory allocation.
+.  Computer Science Domains: Blockchain Technologies, Cloud Computing, Data Communications.
 SKILLS
 •	Python Programing language
 •	C Programming, OOPs trough C++
